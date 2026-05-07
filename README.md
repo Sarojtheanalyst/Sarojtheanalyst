@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Saroj Giri
 
-🎓 **BSc CSIT Student | Data Analyst | BI Developer | Python Enthusiast**  
+🎓 **MSC CSIT Student | Data Analyst | BI Developer | Python Enthusiast**  
 📍 Kathmandu, Nepal  
 
 ---
