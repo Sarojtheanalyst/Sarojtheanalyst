@@ -1,231 +1,96 @@
 <p align="center">
   <img 
     src="https://repository-images.githubusercontent.com/922916182/b59dfe2e-e448-4cec-b19a-d0cea74811c3"
-    alt="MasterHead"
-    width="70%"
+    alt="Banner"
+    width="40%"
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Saroj Giri</h1>
+# 👋 Hi, I'm Saroj Giri
 
-<h3 align="center">
-  Data Analyst | BI Developer | Python Enthusiast | Turning Data into Actionable Insights 📊
-</h3>
-
-<img align="right" alt="Coding" width="400"
-src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sarojtheanalyst&label=Profile%20Views&color=0e75b6&style=flat"
-  alt="Profile Views"/>
-</p>
+🎓 **BSc CSIT Student | Data Analyst | BI Developer | Python Enthusiast**  
+📍 Kathmandu, Nepal  
 
 ---
 
-# 🚀 About Me
+## 🐍 Python & Data Science
 
-- 🌱 Currently learning **Data Engineering & Advanced Analytics**
-- 💡 Passionate about **Data Analytics, Business Intelligence & Machine Learning**
-- 📊 Skilled in transforming raw data into meaningful business insights
-- 💬 Ask me about **Python, SQL, Power BI, Excel, Pandas, NumPy**
-- 📫 Reach me at: **sarojgiri153456@gmail.com**
-- ⚡ Fun Fact: **I make dashboards and jokes at the same time 😄**
+**Tools & Libraries:**  
 
----
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-77AADD?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/saroj-giri-0bb7b4297" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-  alt="LinkedIn"
-  width="45"
-  height="45"/>
-</a>
-
-<a href="https://instagram.com/saroj_giri45" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
-  alt="Instagram"
-  width="45"
-  height="45"/>
-</a>
-
-<a href="https://facebook.com/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png"
-  alt="Facebook"
-  width="45"
-  height="45"/>
-</a>
-
-<a href="mailto:sarojgiri153456@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-  alt="Gmail"
-  width="45"
-  height="45"/>
-</a>
-
-</p>
+- 🧠 Python fundamentals & programming logic  
+- 📊 Data manipulation, analysis & visualization  
+- 🤖 Machine learning & statistical analysis  
+- 🧹 Data preprocessing & feature engineering  
+- 💾 Working with CSV, Excel, JSON & SQL  
+- 📈 Dashboard creation & business reporting  
+- 📊 Power BI DAX & Power Query  
+- 🔍 Data storytelling & insight generation  
 
 ---
 
-# 💻 Tech Stack & Tools
+## 💻 Other Programming Skills
 
-## 📊 Data Analytics & BI
-
-<p align="left">
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/power-bi.png"
-  alt="Power BI"
-  width="55"
-  height="55"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"
-  alt="Excel"
-  width="55"
-  height="55"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
-  alt="NumPy"
-  width="55"
-  height="55"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-  alt="Pandas"
-  width="55"
-  height="55"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-  alt="MySQL"
-  width="55"
-  height="55"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-  alt="PostgreSQL"
-  width="55"
-  height="55"/>
-</a>
-
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🧠 Programming & Machine Learning
+## 🔧 Tools & Workflow
 
-<p align="left">
-
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  alt="Python"
-  width="55"
-  height="55"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-  alt="Scikit Learn"
-  width="55"
-  height="55"/>
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
-  alt="Matplotlib"
-  width="55"
-  height="55"/>
-</a>
-
-<a href="https://seaborn.pydata.org/" target="_blank">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-  alt="Seaborn"
-  width="55"
-  height="55"/>
-</a>
-
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"
-  alt="Jupyter"
-  width="55"
-  height="55"/>
-</a>
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-0099FF?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 
 ---
 
-## ☁️ Cloud & Databases
+## 📊 Data Analytics & BI Tools
 
-<p align="left">
-
-<a href="https://azure.microsoft.com/en-in/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-  alt="Azure"
-  width="55"
-  height="55"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-  alt="MongoDB"
-  width="55"
-  height="55"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-  alt="Git"
-  width="55"
-  height="55"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-  alt="GitHub"
-  width="55"
-  height="55"/>
-</a>
-
-</p>
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ---
 
+## 🌐 Connect with Me
 
-# 📌 Featured Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saroj-giri-0bb7b4297)
 
-✅ Data Cleaning & Transformation  
-✅ Data Visualization & Dashboarding  
-✅ SQL Query Optimization  
-✅ Business Intelligence Reporting  
-✅ Statistical Analysis  
-✅ Machine Learning Fundamentals  
-✅ Power BI DAX & Power Query  
-✅ Excel Automation & Reporting  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saroj_giri45)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarojgiri153456@gmail.com)
 
 ---
 
+## 📈 Currently Learning
 
-
-
-
-# ✨ Quote I Believe In
-
-<p align="center">
-  <i>"Without data, you're just another person with an opinion."</i>
-</p>
-
-<p align="center">
-  <b>— W. Edwards Deming</b>
-</p>
+- 🚀 Data Engineering  
+- ☁️ Cloud Technologies  
+- 📊 Advanced Power BI & DAX  
+- 🤖 AI & Machine Learning  
+- 🧠 Advanced SQL Query Optimization  
 
 ---
+
+🔥 *Always learning, building, analyzing, and improving with data.*  
